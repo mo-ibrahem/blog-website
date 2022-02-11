@@ -18,6 +18,12 @@
 .footer-padding {
 	padding-bottom: 60px;
 }
+.btn{
+    background-color: #1abc9c;
+}
+.btn:hover{
+    background-color: #2ab196;
+}
 
 .footer {
 	position: absolute;
